@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+}
+
+.box-1{
+    
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}

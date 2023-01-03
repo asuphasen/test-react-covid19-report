@@ -1,0 +1,10 @@
+.ant-back-top-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .ant-back-top-icon {
+    font-size: 20px;
+    line-height: 0px;
+  }
